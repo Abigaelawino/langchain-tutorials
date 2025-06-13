@@ -18,6 +18,7 @@ This project demonstrates how to build a conversational retrieval-augmented gene
 5. The ConversationalRetrievalChain combines the LLM, retriever, and memory components
 6. Users can interact with the system through a simple command-line interface
 
+
 ## Requirements
 
 See the requirements.txt file for all dependencies. Key components include:
